@@ -1,6 +1,5 @@
-==========
 Welcome!
-==========
+========
 
 In the is readMe file, I will walk you through the steps to executing 
 my assignment1.cpp 
@@ -14,11 +13,11 @@ just click on the "tools" folder and click on "Developer Command Prompt".
 In this command prompt, you're going to want to change your directory to the folder
 where the *.cpp you are running is located and use the following command to compile:
 
-cl <filename>.cpp
+cl (filename).cpp
 
 Now that the *.cpp file is compiled, you may now execute the file through the command:
 
-<filename>.cpp
+(filename).cpp
 
-This should run the compiled executable. If you replace the <filename> with "assignment1",
+This should run the compiled executable. If you replace the (filename) with "assignment1",
 you should see the message "Hello, World!" pop up on the command line.
